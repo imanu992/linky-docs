@@ -1,4 +1,4 @@
-# Legal Documentation for Liky
+# Legal Documentation for Linky
 
 Welcome to the legal documentation for our Discord App. Here you will find the Terms of Service and Privacy Policy that govern the use of our bot.
 
