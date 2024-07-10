@@ -1,12 +1,11 @@
 # Legal Documentation for Linky
 
-Welcome to the legal documentation for our Discord App. Here you will find the Terms of Service and Privacy Policy that govern the use of our bot.
+Welcome to the legal documentation for our Discord Bot. Here you will find the Terms of Service and Privacy Policy that govern the use of our bot.
 
 ## Documents
 
 - [Terms of Service](https://github.com/imanu992/linky-docs/blob/main/tos.md#terms-of-service-for-linky)
 - [Privacy Policy](https://github.com/imanu992/linky-docs/blob/main/privacy%26policy.md#privacy-policy-of-linky)
-
+- [Information about OAuth](https://github.com/imanu992/linky-docs/blob/main/oauth.md#about-linky-oauth)
 ## Contact
-
-For any questions regarding these documents, you can join the Discord server and open a ticket.
+For any questions regarding these documents, you can join the Discord server and open a ticket [here](https://discord.com/channels/1256791280764063806/1259890033289203792).
