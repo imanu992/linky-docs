@@ -14,8 +14,11 @@ Just remember, if you leave the server, the `/bump` command will be disabled!
 ### Where are the OAuth redirects located?
 You can find them in the **"Add App"** button in the bot's profile.
 ![Add App Button](https://i.imgur.com/v2RL3fu.jpeg)
-And in the invite command, both in the text and the button message. Both links are the same, except the text link is in the form of a hyperlink because the original link is too long.
+And in the invite command. Both links are the same, except the text link is in the form of a hyperlink because the original link is too long.
 ![invite cmd](https://i.imgur.com/DBwZNN9.jpeg)
 
 ### Direct Oauth Link
 https://linky-oauth.vercel.app/login
+
+### Conclusions
+Hopefully, we've clarified your ideas. For any questions or requests regarding Linky's OAuth, please open a ticket in the server!
