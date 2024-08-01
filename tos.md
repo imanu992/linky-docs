@@ -36,6 +36,6 @@ For questions or assistance regarding these Terms of Service, you can contact us
 - **Governing Law:** These Terms of Service will be governed and interpreted according to the laws of the country where the owner of Linky resides.
 - **Entire Agreement:** These Terms constitute the entire agreement between you and Linky regarding the use of the bot.
 
-
+### Other
 - Last Update: 31/07/24 (DD/MM/YYYY)
 - View this ToS to our website [https://linkybot.xyz/tos](https://linkybot.xyz/tos)
